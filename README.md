@@ -1,1 +1,3 @@
-# setup
+# Setup
+
+New pc setup stuff
