@@ -98,6 +98,7 @@ alias ga="git add ."
 alias gc="git commit -m"
 alias gpo="git push origin"
 alias gprune="git fetch origin --prune"
+alias glc="git ls-files | xargs wc -l"
 
 alias nd="npm run dev"
 alias ns="npm start"
